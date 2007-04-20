@@ -4,7 +4,7 @@
 
 Summary:	%{_pearname} - class for reading and writing Config-"files"
 Name:		php-pear-%{_pearname}
-Version:	1.10.6
+Version:	1.10.10
 Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
@@ -83,7 +83,4 @@ rm -rf %{buildroot}
 %doc %{_pearname}-%{version}/docs/*
 %{_datadir}/pear/*.php
 %{_datadir}/pear/%{_class}
-
 %{_datadir}/pear/packages/%{_pearname}.xml
-
-
