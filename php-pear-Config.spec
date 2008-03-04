@@ -5,7 +5,7 @@
 Summary:	%{_pearname} - class for reading and writing Config-"files"
 Name:		php-pear-%{_pearname}
 Version:	1.10.11
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
