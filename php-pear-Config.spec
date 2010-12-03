@@ -3,7 +3,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.10.11
-Release:	%mkrel 6
+Release:	%mkrel 7
 Summary:	Class for reading and writing Config-"files"
 License:	PHP License
 Group:		Development/PHP
