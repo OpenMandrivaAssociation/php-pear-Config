@@ -2,13 +2,13 @@
 %define		upstream_name	%{_class}
 
 Name:		php-pear-%{upstream_name}
-Version:	1.10.11
-Release:	%mkrel 7
+Version:	1.10.12
+Release:	%mkrel 1
 Summary:	Class for reading and writing Config-"files"
 License:	PHP License
 Group:		Development/PHP
 URL:		http://pear.php.net/package/Config/
-Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
+Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
 Requires:	php-pear
