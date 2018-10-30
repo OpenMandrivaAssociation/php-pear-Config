@@ -4,7 +4,7 @@
 Summary:	Class for reading and writing Config-"files"
 Name:		php-pear-%{upstream_name}
 Version:	1.10.12
-Release:	14
+Release:	15
 License:	PHP License
 Group:		Development/PHP
 Url:		http://pear.php.net/package/Config/
