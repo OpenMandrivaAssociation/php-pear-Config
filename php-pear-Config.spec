@@ -7,7 +7,7 @@ Version:	1.10.12
 Release:	17
 License:	PHP License
 Group:		Development/PHP
-Url:		http://pear.php.net/package/Config/
+Url:		https://pear.php.net/package/Config/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tgz
 BuildArch:	noarch
 BuildRequires:	php-pear
